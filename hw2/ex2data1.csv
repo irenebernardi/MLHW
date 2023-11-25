@@ -1,0 +1,20 @@
+Neuron #,Location,Firing rate,Firing pattern,Size,Type
+1,Cortex,Low,Bursts,Large,Interneuron
+2,Striatum,Low,Bursts,Median,Projection neuron
+3,Thalamus,High,Irregular,Small,Projection neuron
+4,Striatum,Low,Irregular,Median,Projection neuron
+5,Cortex,Low,Regular,Large,Interneuron
+6,Cortex,Low,Irregular,Large,Projection neuron
+7,Cortex,Low,Irregular,Median,Projection neuron
+8,Striatum,High,Regular,Median,Interneuron
+9,Thalamus,High,Regular,Median,Interneuron
+10,Striatum,Low,Bursts,Large,Projection neuron
+11,Thalamus,High,Irregular,Large,Projection neuron
+12,Striatum,High,Irregular,Large,Interneuron
+13,Cortex,Low,Regular,Large,Projection neuron
+14,Striatum,Low,Regular,Large,Projection neuron
+15,Striatum,High,Regular,Median,Interneuron
+16,Cortex,Low,Bursts,Median,Projection neuron
+17,Thalamus,High,Regular,Small,Interneuron
+18,Cortex,Low,Irregular,Large,Interneuron
+19,Striatum,High,Irregular,Large,Interneuron
